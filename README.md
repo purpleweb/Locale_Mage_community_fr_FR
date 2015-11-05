@@ -16,12 +16,12 @@ You can install this module using [Colin Mollenhour's](https://github.com/colinm
 
 ```bash
 $ modman init
-$ modman clone https://github.com/tonioMtl/MagentoCatalogCategorySearch.git
+$ modman clone https://github.com/tonioMtl/Locale_Mage_community_fr_FR.git
 ```
 You can update the module with this command
 
 ```bash
-$ modman update MagentoCatalogCategorySearch
+$ modman update Locale_Mage_community_fr_FR
 ```
 
 Source
