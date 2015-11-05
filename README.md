@@ -27,4 +27,4 @@ $ modman update Locale_Mage_community_fr_FR
 Source
 ------
 
-http://connect20.magentocommerce.com/community/Locale_Mage_community_fr_FR
+http://www.magentocommerce.com/magento-connect/french-france-language-pack-for-magento-traduction-francaise.html
